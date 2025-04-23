@@ -34,5 +34,3 @@
         /middleware - Middlewares personalizados
 
         /config - Configuraciones
-
-    /tests - Pruebas
